@@ -16,7 +16,7 @@ namespace TriangleTests
             _result.Flush();
             _result.Close();
             
-            File.Copy("Result.txt", "../../../Result.txt");
+            File.Copy("Result.txt", "../../../Result.txt", true);
         }
         
         [Test]
