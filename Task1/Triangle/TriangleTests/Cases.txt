@@ -1,0 +1,52 @@
+﻿8 9 10
+Scalene
+10 9 8
+Scalene
+6 8 7
+Scalene
+0,3 0,4 0,5
+Scalene
+7 7 7
+Equilateral
+6,66 6,66 6,66
+Equilateral
+1,7976931348623157E+308 1,7976931348623157E+308 1,7976931348623157E+308
+Equilateral
+2 3 3
+Isosceles
+3 3 2
+Isosceles
+3 2 3
+Isosceles
+3	2	3
+Isosceles
+3             2             3
+Isosceles
+36,89 20 36,89
+Isosceles
+8 2 3
+Impossible to construct a triangle
+0,008 0,002 0,003
+Impossible to construct a triangle
+-300 500 700
+Impossible to construct a triangle
+-3 -3 -3
+Impossible to construct a triangle
+6 0 9
+Impossible to construct a triangle
+A B C
+Error
+8 9 BBBB
+Error
+**/$///;$$$$$$
+Invalid arguments count
+0 0
+Invalid arguments count
+1 88 4 5
+Invalid arguments count
+
+Invalid arguments count
+1
+Invalid arguments count
+1 2 3 4 5 sad lkj oiu &&& 2 2 2
+Invalid arguments count
